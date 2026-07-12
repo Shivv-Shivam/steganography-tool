@@ -1,3 +1,1 @@
-opencv-python
-numpy
-stegano
+stegano>=2.5.0
