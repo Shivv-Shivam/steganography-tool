@@ -4,16 +4,12 @@ This is a simple Python tool for hiding and revealing messages in images using s
 
 ## Features
 
-- Hide a text message in an image.
+- Hide a text message in an PNG image.
 - Reveal a hidden message from an image.
 
 ## Requirements
 
-- Python 3.x
-- Libraries:
-  - OpenCV
-  - NumPy
-  - Stegano
+stegano>=2.5.0
 
 ## Installation
 
